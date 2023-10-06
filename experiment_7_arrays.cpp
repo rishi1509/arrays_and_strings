@@ -1,5 +1,5 @@
 /*PRN: 22070123095
-Experiment-no: 8(a)*/
+Experiment-no: 7(a)*/
 
 #include <iostream>
 #include<string.h>
@@ -19,7 +19,7 @@ My name is: rishi mukherjee
 */
 
 /*PRN: 22070123095
-Experiment-no: 8(b)*/
+Experiment-no: 7(b)*/
 #include <iostream>
 #include<string.h>
 using namespace std;
@@ -43,7 +43,7 @@ The lenght of the string is: 19
 */
 
 /*PRN: 22070123095
-Experiment-no: 8(c)*/
+Experiment-no: 7(c)*/
 #include <iostream>
 #include<string.h>
 using namespace std;
@@ -66,7 +66,7 @@ Concatenated string is: Hello World!
 */
 
 /*PRN: 22070123095
-Experiment-no: 8(d)*/
+Experiment-no: 7(d)*/
 #include <iostream>
 #include<string.h>
 using namespace std;
@@ -95,7 +95,7 @@ Lenght of the concatenated string is: 12
 */
 
 /*PRN: 22070123095
-Experiment-no: 8(e)*/
+Experiment-no: 7(e)*/
 #include <iostream>
 #include<string.h>
 using namespace std;
@@ -141,7 +141,7 @@ It is not a Palindrome
 */
 
 /*PRN: 22070123095
-Experiment-no: 8(f)*/
+Experiment-no: 7(f)*/
 #include <iostream>
 #include<string.h>
 using namespace std;
